@@ -6,3 +6,5 @@ This is the *Hangman (JavaScript)* project I made myself.
 Here's the link to the project: https://hyperskill.org/projects/265
 
 Check out my profile: https://hyperskill.org/profile/434760606
+
+Here's the working link to the project: https://replit.com/@DivyanshPingle/HANGMANorStage88orMenu-please?v=1
